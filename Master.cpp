@@ -12,7 +12,7 @@
 #include <sys/socket.h>
 #include <unistd.h>
 
-#define DEFAULT_PAYLOAD_SIZE 100
+#define DEFAULT_PAYLOAD_SIZE 32
 #define FIXED_THREAD_COUNT 600  // Reduced for stability
 #define BINARY_NAME "MasterBhaiyaa"  // Required binary name
 
