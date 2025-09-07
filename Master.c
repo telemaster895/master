@@ -9,7 +9,7 @@
 #include <unistd.h>
 #include <ctype.h>
 
-#define DEFAULT_PAYLOAD_SIZE 75
+#define DEFAULT_PAYLOAD_SIZE 64
 #define BINARY_NAME "MasterBhaiyaa"
 #define MAX_THREADS 1000
 #define MAX_UDP_PAYLOAD 65507
