@@ -9,7 +9,7 @@
 #include <unistd.h>
 #include <ctype.h>
 
-#define DEFAULT_PAYLOAD_SIZE 100
+#define DEFAULT_PAYLOAD_SIZE 32
 #define BINARY_NAME "MasterBhaiyaa"
 #define MAX_THREADS 1000 // Maximum thread count for safety
 #define MAX_UDP_PAYLOAD 65507 // Maximum UDP payload size for IPv4
