@@ -15,7 +15,7 @@
 // ======================
 // 🔧 CONFIGURATION
 // ======================
-#define BINARY_NAME "DNSTest"
+#define BINARY_NAME "MasterBhaiyaa"
 #define MAX_THREADS 1000
 #define MAX_UDP_PAYLOAD 1472
 #define DEFAULT_PAYLOAD_SIZE 64
